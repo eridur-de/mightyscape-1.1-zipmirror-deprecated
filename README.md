@@ -1,5 +1,7 @@
 # MightyScape for Inkscape 1.0+ - ZIP ARCHIVE MIRROR
 
+# This repo is deprecated now. Please see https://github.com/eridur-de/mightyscape-1.2-zipmirror
+
 Welcome to the zip archive mirror of MightyScape, which has it's roots at:
 - https://gitea.fablabchemnitz.de/FabLab_Chemnitz/mightyscape-1.X
 - https://github.com/vmario89/mightyscape-1.X
